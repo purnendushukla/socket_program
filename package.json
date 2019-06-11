@@ -1,0 +1,18 @@
+{
+  "name": "socket_program",
+  "version": "1.0.0",
+  "description": "Learning socket programing  in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.14",
+    "nodemon": "^1.19.1",
+    "socket.io": "^2.2.0"
+  }
+}
